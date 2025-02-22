@@ -1,14 +1,16 @@
 // ==UserScript==
 // @name         mac-ROC-flag
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/tizee-tampermonkey-scripts/tampermonkey-mac-roc-flag
+// @homepage     https://github.com/tizee-tampermonkey-scripts/tampermonkey-mac-roc-flag
+// @downloadURL  https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-mac-roc-flag/main/mac-ROC-flag.js
+// @updateURL    https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-mac-roc-flag/main/mac-ROC-flag.js
+// @version      1.0
 // @description  Replace ROC flag unicode to images in Apple devices
 // @author       tizee
-// @homepage     https://github.com/tizee/mac-ROC-flag.js
 // @icon         https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/72x72/1f1f9-1f1fc.png
+// @require      https://unpkg.com/twemoji@latest/dist/twemoji.min.js
 // @grant        GM_addStyle
 // @match        *://*/*
-// @require      https://unpkg.com/twemoji@latest/dist/twemoji.min.js
 // ==/UserScript==
 
 (function () {
