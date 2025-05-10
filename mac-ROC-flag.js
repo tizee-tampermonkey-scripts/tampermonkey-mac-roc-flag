@@ -2,8 +2,8 @@
 // @name         mac-ROC-flag
 // @namespace    https://github.com/tizee-tampermonkey-scripts/tampermonkey-mac-roc-flag
 // @homepage     https://github.com/tizee-tampermonkey-scripts/tampermonkey-mac-roc-flag
-// @downloadURL  https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-mac-roc-flag/main/mac-ROC-flag.js
-// @updateURL    https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-mac-roc-flag/main/mac-ROC-flag.js
+// @downloadURL  https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-mac-ROC-flag/refs/heads/main/mac-ROC-flag.js
+// @updateURL    https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-mac-ROC-flag/refs/heads/main/mac-ROC-flag.js
 // @version      1.0
 // @description  Replace ROC flag unicode to images in Apple devices
 // @author       tizee
